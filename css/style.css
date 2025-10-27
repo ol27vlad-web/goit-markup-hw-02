@@ -1,3 +1,131 @@
 body{
     font-family: "Roboto", sans-serif;
+    color: #2E2F42;
+   
 }
+/* #region head */
+
+.main-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+}
+.text-iris{
+    color: #4D5AE5;
+    font-size: 18px;
+    line-height: 1.17;
+}
+.main-logo{
+   font-weight: 500;
+   font-size: 16px;
+   line-height: 1.5; 
+}
+.address-item{
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* #endregion head */
+/* #region image */
+.section-image{
+    background-color: #2E2F42;
+}
+.title-image{
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 56px;
+    line-height: 1.1;
+    text-align: center;
+}
+.button-image{
+    font-size: 16px;
+    line-height: 1.5;
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+    cursor: pointer;
+}
+.button-image:hover,
+.button-image:focus{
+    background-color: #404bbf;
+}
+/* #endregion image */
+/* #region advantages */
+.advantages-item-title{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+}
+.advantages-item-description{
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+}
+/* #endregion advantages */
+
+/* #region ourteam */
+.team-title{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.1;
+    text-align: center;
+}
+
+.team-worker-title{
+    font-weight: 500;
+    font-size: 20;
+    line-height: 1.2;
+}
+
+.team-worker-position{
+   color: #434455; 
+   font-size: 16px;
+   line-height: 1.5;
+}
+/* #endregion ourteam */
+
+/* #region portfolio */
+.portfolio-title{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.1;
+}
+
+.portfolio-item-title{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+}
+
+.portfolio-item-area{
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+
+}
+/* #endregion portfolio */
+
+/* #region footer */
+.page-footer{
+    background-color: #2E2F42;
+}
+.footer-logo{
+    color: #F4F4FD;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+}
+.text-iris-footer{
+    color: #4D5AE5;
+    font-size: 18px;
+    line-height: 1.17;
+}
+.footer-text{
+    color: #F4F4FD;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* #endregion footer */
